@@ -14,7 +14,7 @@ group :assets do
   gem 'therubyracer', :platforms => :ruby
   gem 'uglifier', '>= 1.0.3'
 end
-gem 'dojo-rails'
+#gem 'dojo-rails'
 
 
 # Deploy with Capistrano
